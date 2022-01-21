@@ -52,7 +52,7 @@
     "gulp-util": "^3.0.6",
     "install": "^0.1.8",
     "jasmine-core": "^2.3.4",
-    "karma": "^0.13.9",
+    "karma": "^5.0.8",
     "karma-babel-preprocessor": "^5.2.2",
     "karma-browserify": "^4.3.0",
     "karma-chai": "^0.1.0",
